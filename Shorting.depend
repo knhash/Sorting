@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1387260689 source:c:\users\administrator\documents\codeblocks\shorting\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<limits.h>
+
